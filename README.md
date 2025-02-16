@@ -64,7 +64,7 @@ This example shows a complete implementation of:
 ## Usage
 
 ```
-npm i requext
+npm i node-requext
 ```
 
 ## Examples
