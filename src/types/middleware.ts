@@ -1,3 +1,3 @@
-import ContextNamespace from "@/namespace";
+import ContextNamespace from "../namespace";
 
 export type MiddlewareCreator = (namespace: ContextNamespace) => any;
