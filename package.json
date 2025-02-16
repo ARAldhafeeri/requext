@@ -1,6 +1,6 @@
 {
   "name": "node-requext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rich-API, user friendly, performant, modern request context for Nodejs server-side applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
