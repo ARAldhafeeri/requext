@@ -50,6 +50,16 @@ This library is different, as I had the opprotunity to explore the async_hooks l
 - Storing timing information
 - Sharing data across middleware and handlers
 
+## Usage
+
+```
+npm i node-requext
+```
+
+## Examples
+
+- All current examples with expressjs , theortically should work with other server-side nodejs frameworks.
+
 This example shows a complete implementation of:
 
 - Request-scoped context
@@ -60,16 +70,6 @@ This example shows a complete implementation of:
 - Performance monitoring
 - Namespace isolation
 - Lifecycle hooks
-
-## Usage
-
-```
-npm i node-requext
-```
-
-## Examples
-
-- All current examples with expressjs , theortically should work with other server-side nodejs frameworks.
 
 ```Javascript
 const {
